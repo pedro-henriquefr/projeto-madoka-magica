@@ -1,0 +1,22 @@
+@media (max-width: 769px) {
+    .conteudo {
+        left: 30px;
+        top: 80px;
+    }
+
+    .conteudo .logo {
+        margin-bottom: -10px;
+    }
+
+    .conteudo .nome-personagem {
+        margin: 0;
+    }
+
+    .botoes {
+        z-index: 1;
+    }
+
+    .botoes .botao  img {
+        max-width: 50px;
+    }
+}
