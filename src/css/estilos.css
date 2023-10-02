@@ -52,6 +52,7 @@ main .personagem .imagem {
     color: black;
     font-family: "Yanone Kaffeesatz";
     line-height: 24px;
+    font-size: 20px;
 }
 
 .conteudo .logo {
